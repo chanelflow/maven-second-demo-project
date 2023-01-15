@@ -1,2 +1,2 @@
 # maven-second-demo-project
-Deploy war file on tomcat server from Maven server
+Deploying war file on tomcat server from Maven server
